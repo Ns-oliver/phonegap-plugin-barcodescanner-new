@@ -6,7 +6,6 @@
     ]
   ],
   "_from": "phonegap-plugin-barcodescanner@6.0.8",
-  "_id": "phonegap-plugin-barcodescanner@6.0.8",
   "_inBundle": false,
   "_integrity": "sha1-2VxyuKrhaD9jD7wMFt1R7efuROs=",
   "_location": "/phonegap-plugin-barcodescanner",
@@ -27,9 +26,7 @@
   "_resolved": "http://registry.npm.taobao.org/phonegap-plugin-barcodescanner/download/phonegap-plugin-barcodescanner-6.0.8.tgz",
   "_spec": "6.0.8",
   "_where": "/Users/macbookpro/Desktop/work/student-app-cmcc",
-  "author": {
-    "name": "Adobe PhoneGap Team"
-  },
+  "author": "Adobe PhoneGap Team",
   "bugs": {
     "url": "https://github.com/phonegap/phonegap-plugin-barcodescanner/issues"
   },
@@ -68,7 +65,7 @@
     "cordova:plugin"
   ],
   "license": "MIT",
-  "name": "phonegap-plugin-barcodescanner",
+  "name": "phonegap-plugin-barcodescanner-new",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git"
@@ -76,5 +73,5 @@
   "scripts": {
     "test": "jasmine-node --color spec"
   },
-  "version": "6.0.8"
+  "version": "1.0.0"
 }
